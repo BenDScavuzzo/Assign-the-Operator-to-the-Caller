@@ -12,10 +12,9 @@ Explanation of Steps:
 - Step 3 - Enter Operator ID if the Caller's dynamicName equals an Operator dynamicName from Step 1
 
 Permissions for API Operator:
-
--API:  REST API - Read,  Application Passwords - Write.
--Incident Management: First line incidents - Read & Write, Second line incidents - Read & write.
--Supporting Files:  Operators - Read
+1) API:  REST API - Read,  Application Passwords - Write.
+2) Incident Management: First line incidents - Read & Write, Second line incidents - Read & write.
+3) Supporting Files:  Operators - Read
 
 Variables:
 
