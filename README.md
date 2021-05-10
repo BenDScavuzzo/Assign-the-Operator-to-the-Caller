@@ -12,6 +12,7 @@ Explanation of Steps:
 - Step 3 - Enter Operator ID if the Caller's dynamicName equals an Operator dynamicName from Step 1
 
 Permissions for API Operator:
+
 -API
 --- REST API - Read
 --- Application Passwords - Write
@@ -22,6 +23,7 @@ Permissions for API Operator:
 --- Operators - Read
 
 Variables:
+
 -topdesk_user: The Operator account used to perform this action (e.g. ADMIN).
 -topdesk_applicationpassword: Application password configured for the API user/operator.
 -topdesk_url: URL to your TOPdesk environment.
