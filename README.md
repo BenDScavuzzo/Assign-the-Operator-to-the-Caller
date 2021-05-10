@@ -13,14 +13,9 @@ Explanation of Steps:
 
 Permissions for API Operator:
 
--API
---- REST API - Read
---- Application Passwords - Write
--Incident Management
---- First line incidents - Read, Write
---- Second line incidents - Read, write
--Supporting Files
---- Operators - Read
+-API:  REST API - Read,  Application Passwords - Write.
+-Incident Management: First line incidents - Read & Write, Second line incidents - Read & write.
+-Supporting Files:  Operators - Read
 
 Variables:
 
