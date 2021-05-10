@@ -18,6 +18,6 @@ Permissions for API Operator:
 
 Variables:
 
--topdesk_user: The Operator account used to perform this action (e.g. ADMIN).
--topdesk_applicationpassword: Application password configured for the API user/operator.
--topdesk_url: URL to your TOPdesk environment.
+1) topdesk_user: The Operator account used to perform this action (e.g. ADMIN).
+2) topdesk_applicationpassword: Application password configured for the API user/operator.
+3) topdesk_url: URL to your TOPdesk environment.
